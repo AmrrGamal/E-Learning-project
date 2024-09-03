@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: author
+      authentication-database: admin
+      username: amr
+      password: amr
+
+
+server:
+  port: 8085
